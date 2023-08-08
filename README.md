@@ -1,2 +1,2 @@
-- [Loops in BDFD](https://github.com/Ak-07/Loops-In-BDFD)
+- [Loops In BDFD](https://github.com/Ak-07/Loops-In-BDFD)
 - [Unlimited $replyIn](Unlimited%20%24replyIn)
