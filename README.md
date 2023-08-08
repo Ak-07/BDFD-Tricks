@@ -1,2 +1,2 @@
-# Premium Bypass
-- [Unlimited `$replyIn`](Unlimited%20%24replyIn)
+- [Loops in BDFD](https://github.com/Ak-07/Loops-In-BDFD)
+- [Unlimited $replyIn](Unlimited%20%24replyIn)
