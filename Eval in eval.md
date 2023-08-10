@@ -1,3 +1,4 @@
+# Eval in eval
 ```php
 $eval[$replaceText[$message;$$c[]eval[;$$c[]var[_ei\;$$c[]sum[0$$c[]var[_ei\]\;1\]\]$$c[]var[_e$$c[]var[_ei\]\;]]
 $eval[$var[_e1]]$eval[$var[_e2]]$eval[$var[_e3]]$eval[$var[_e4]]$eval[$var[_e5]]$eval[$var[_e6]]$eval[$var[_e7]]
